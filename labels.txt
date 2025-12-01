@@ -1,0 +1,6 @@
+0 Sedan
+1 Jeep
+2 Truck
+3 Bus
+4 Special vehicles
+5 Bike
